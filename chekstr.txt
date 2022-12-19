@@ -1,0 +1,4 @@
+Structure Check List:
+- Title ( wich module we check )
+- Task in progress ( check test ):
+- Status: passed/failed/skipped/not run
